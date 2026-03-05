@@ -8,11 +8,9 @@ step 4: activate the virtual environment
 step 5: install django
      -pip install django
 step 6: create a django project
-     -django-admin startproject translator .
+     -django-admin startproject translator
 step 7: create a django app
      -python manage.py startapp core
-step 8: migrate the database
-     -python manage.py migrate
-step 9: run the server
+step 8: run the app
      -python manage.py runserver
-step 10: 
+
